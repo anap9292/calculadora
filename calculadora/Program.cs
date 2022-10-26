@@ -10,7 +10,7 @@
 
             Console.WriteLine("Ingeese un numero: ");
             n1 = int.Parse(Console.ReadLine());
-            Console.WriteLine("Ingeese otro numero: ");
+            Console.WriteLine("Ingrese otro numero: ");
             n2 = int.Parse(Console.ReadLine());
 
             suma = n1 + n2;
