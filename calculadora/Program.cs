@@ -8,7 +8,7 @@
             int n1, n2;
             int suma;
 
-            Console.WriteLine("Ingeese un numero: ");
+            Console.WriteLine("Ingrese un numero: ");
             n1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Ingrese otro numero: ");
             n2 = int.Parse(Console.ReadLine());
@@ -19,7 +19,7 @@
             //////Hacer un programa para solicitar por teclado un número y luego devolver su valor elevado al cubo.
             int numero;
             int cubo;
-            Console.WriteLine("Ingeese un numero: ");
+            Console.WriteLine("Ingrese un numero: ");
             numero = int.Parse(Console.ReadLine());
             cubo = numero * numero * numero;
             Console.WriteLine("El cubo del numero " + numero + " es " + cubo);
